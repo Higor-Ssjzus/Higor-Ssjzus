@@ -19,27 +19,27 @@
 <div align="center">
   <img src="./assets/grass-block.png" alt="Bloco de grama" width="28" />
   &nbsp;
-  <img src="./assets/title-about.svg" alt="Who Am I?" width="245" />
+  <img src="./assets/title-about.svg" alt="Quem Sou Eu?" width="245" />
   &nbsp;
   <img src="./assets/grass-block.png" alt="Bloco de grama" width="28" />
 </div>
 <p align="justify">
   <img src="./assets/ender-cats.png" alt="Gatinhos com armaduras de Minecraft no End" width="290" align="left" />
-  I'm <strong>Higor Póvoa</strong>, and I'm building my journey in <strong>technology</strong>, with a special interest in <code>software development</code> and discovering new ways to turn ideas into real projects. I enjoy exploring different technologies, understanding how systems work, and finding creative solutions to everyday challenges.
+  Sou o <strong>Higor Póvoa</strong>, e estou construindo minha jornada na <strong>tecnologia</strong>, com um interesse especial em <code>desenvolvimento de software</code> e em descobrir novas formas de transformar ideias em projetos reais. Gosto de explorar diferentes tecnologias, entender como os sistemas funcionam e encontrar soluções criativas para os desafios do dia a dia.
 </p><p align="justify">
-  I like putting what I learn into practice through personal projects, experiments, and continuous improvement. My toolbox includes <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>C#</strong>, and technologies for working with <strong>databases</strong> and web applications. For me, every new challenge is an opportunity to learn something useful and build something better.
+  Gosto de colocar o que aprendo em prática por meio de projetos pessoais, experimentos e melhoria contínua. Minha caixa de ferramentas inclui <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>C#</strong> e tecnologias para trabalhar com <strong>bancos de dados</strong> e aplicações web. Para mim, cada novo desafio é uma oportunidade de aprender algo útil e construir algo melhor.
 </p><p align="justify">
-  Beyond technology, I also enjoy the creative world of <strong>Minecraft</strong>, where even the biggest ideas begin with a single block. I bring that same mindset to my projects: explore possibilities, learn from mistakes, and keep improving. My goal is to continue developing my skills and creating software that makes a difference — <strong>one block of code at a time.</strong>
+  Além da tecnologia, também aprecio o mundo criativo de <strong>Minecraft</strong>, onde até as maiores ideias começam com um único bloco. Levo essa mesma mentalidade para os meus projetos: explorar possibilidades, aprender com os erros e continuar melhorando. Meu objetivo é continuar desenvolvendo minhas habilidades e criando softwares que façam a diferença — <strong>um bloco de código por vez.</strong>
 </p><br clear="left" />
 <br><div align="center">
-  <strong>YOU CAN CLICK HERE</strong>
+  <strong>VOCÊ PODE CLICAR AQUI</strong>
   <br><br>
   <a href="https://github.com/Higor-Ssjzus">
     <img src="https://img.shields.io/badge/GITHUB-242B21?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub de Higor" />
   </a>
   &nbsp;
   <a href="https://github.com/Higor-Ssjzus?tab=repositories">
-    <img src="https://img.shields.io/badge/MY_PROJECTS-5A9E36?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Projetos de Higor" />
+    <img src="https://img.shields.io/badge/MEUS_PROJETOS-5A9E36?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Projetos de Higor" />
   </a>
   &nbsp;
   <!-- Substitua SEU-USUARIO-AQUI pelo endereço real do LinkedIn do Higor. -->
@@ -51,10 +51,10 @@
   <tr>
     <td width="4" bgcolor="#67B344"></td>
     <td valign="middle">
-      <strong>Behind the Blocks</strong>
+      <strong>Por Trás dos Blocos</strong>
       <br><br>
-      I'm constantly learning, creating, and turning ideas into something real.<br>
-      Every project is a new world to explore — a chance to experiment, overcome challenges, and build something better.
+      Estou constantemente aprendendo, criando e transformando ideias em algo real.<br>
+      Cada projeto é um novo mundo a ser explorado — uma chance de experimentar, superar desafios e construir algo melhor.
     </td>
     <td width="130" align="center" valign="middle">
       <img src="./assets/minecraft-frogs.png" alt="Sapinhos do Minecraft" width="120" />
@@ -64,7 +64,7 @@
 <div align="center">
   <img src="./assets/grass-block.png" alt="Bloco de grama" width="28" />
   &nbsp;
-  <img src="./assets/title-stack.svg" alt="My Tech Stack" width="295" />
+  <img src="./assets/title-stack.svg" alt="Minha Stack Tecnológica" width="295" />
   &nbsp;
   <img src="./assets/grass-block.png" alt="Bloco de grama" width="28" />
 </div>
@@ -82,7 +82,7 @@
 </table>
 <div align="center">
   <br><br>
-  <em>“Every great build begins with a single block. Keep exploring, keep creating, and make your own world.”</em>
+  <em>“Cada grande construção começa com um único bloco. Continue explorando, continue criando e faça o seu próprio mundo.”</em>
   <br><br>
   <img src="./assets/grass-divider.svg" alt="Separador inspirado em blocos de grama do Minecraft" width="100%" />
 </div>
