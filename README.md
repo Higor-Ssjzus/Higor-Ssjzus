@@ -43,7 +43,7 @@
   </a>
   &nbsp;
   <!-- Substitua SEU-USUARIO-AQUI pelo endereço real do LinkedIn do Higor. -->
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/">
+  <a href="www.linkedin.com/in/higor-henrique-de-paula-póvoa-9037073aa">
     <img src="https://img.shields.io/badge/LINKEDIN-5A9E36?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn de Higor" />
   </a>
 </div>
@@ -81,10 +81,6 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Higor-Ssjzus&bg_color=0d1117&color=8ed46a&line=6bae42&point=c4efab&area=true&hide_border=true" alt="Gráfico de atividades do GitHub" width="98%" />
-</div>
-<div align="center">
-  <img src="./assets/minecraft-square.png" alt="Gatinhos e Creeper em um mundo Minecraft" width="245" />
   <br><br>
   <em>“Every great build begins with a single block. Keep exploring, keep creating, and make your own world.”</em>
   <br><br>
