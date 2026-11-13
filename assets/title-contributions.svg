@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="84" viewBox="0 0 630 84">
+ <rect x="1" y="1" width="628" height="82" rx="5" fill="#161b22" stroke="#34452b" stroke-width="2"/>
+ <rect x="12" y="10" width="606" height="5" fill="#61ae39"/>
+ <path d="M12 15h606v6h-15v5h-20v-6h-15v7h-14v-7h-25v5h-16v-10Z" fill="#437d2e"/>
+ <text x="315" y="58" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="32" font-weight="bold" fill="#f3f7f0">MY CONTRIBUTIONS</text>
+ <rect x="12" y="71" width="606" height="3" fill="#355e2d"/>
+ </svg>
